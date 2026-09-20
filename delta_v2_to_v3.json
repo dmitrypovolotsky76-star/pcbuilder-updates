@@ -1,0 +1,949 @@
+{
+  "db_version": 3,
+  "changes": [
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-i5-13400f",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13400F",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 10.0, \"threads\": 16.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.6, \"ram_type\": \"DDR4+DDR5\", \"igpu\": false, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 55,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230501/intel-core-i513400f-processor-20m-cache-up-to-4-60-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-ryzen-7-7800x3d",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 7 7800X3D",
+      "specs_json": "{\"socket\": \"AM5\", \"cores\": 8.0, \"threads\": 16.0, \"base_freq_ghz\": 4.2, \"boost_freq_ghz\": 5.0, \"ram_type\": \"DDR5\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 120,
+      "score": 48,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-3050-8g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 3050 6 GB",
+      "specs_json": "{\"length_mm\": 242.0, \"vram_gb\": 6.0, \"min_psu_w\": 250, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"Ampere\", \"release_date\": \"2024-02-02\"}",
+      "tdp": 70,
+      "score": 7,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-3050-6-gb.c4188"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-4060-8g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4060",
+      "specs_json": "{\"length_mm\": 240.0, \"vram_gb\": 8.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2023-05-18\"}",
+      "tdp": 115,
+      "score": 15,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4060.c4107"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-4060ti-16g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4060 Ti 8 GB",
+      "specs_json": "{\"length_mm\": 240.0, \"vram_gb\": 8.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2023-05-18\"}",
+      "tdp": 160,
+      "score": 22,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4060-ti-8-gb.c3890"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-4070-12g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4070",
+      "specs_json": "{\"length_mm\": 240.0, \"vram_gb\": 12.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2023-04-12\"}",
+      "tdp": 200,
+      "score": 29,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4070.c3924"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-4070ti-12g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4070 Ti",
+      "specs_json": "{\"length_mm\": 285.0, \"vram_gb\": 12.0, \"min_psu_w\": 600, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2023-01-03\"}",
+      "tdp": 285,
+      "score": 40,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-ti.c3950"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-5060-8g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5060",
+      "specs_json": "{\"length_mm\": 241.0, \"vram_gb\": 8.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x8\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-05-19\"}",
+      "tdp": 145,
+      "score": 19,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4219"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-5070-12g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5070",
+      "specs_json": "{\"length_mm\": 245.0, \"vram_gb\": 12.0, \"min_psu_w\": 600, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-03-04\"}",
+      "tdp": 250,
+      "score": 31,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5070.c4218"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-5070ti-16g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5070 Ti",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 16.0, \"min_psu_w\": 700, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-02-20\"}",
+      "tdp": 300,
+      "score": 44,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5070-ti.c4243"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-5080-16g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5080",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 16.0, \"min_psu_w\": 750, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-01-30\"}",
+      "tdp": 360,
+      "score": 56,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5080.c4217"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-rtx-5090-32g",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5090",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 32.0, \"min_psu_w\": 950, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-01-30\"}",
+      "tdp": 575,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-rx-7800xt-16g",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7800 XT",
+      "specs_json": "{\"length_mm\": 267.0, \"vram_gb\": 16.0, \"min_psu_w\": 600, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2023-08-25\"}",
+      "tdp": 263,
+      "score": 37,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7800-xt.c3839"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-rx-7600-8g",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7600",
+      "specs_json": "{\"length_mm\": 204.0, \"vram_gb\": 8.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2023-05-24\"}",
+      "tdp": 165,
+      "score": 22,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7600.c4153"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-rx-9070xt-16g",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 9070 XT",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 16.0, \"min_psu_w\": 700, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"RDNA 4.0\", \"release_date\": \"2025-03-06\"}",
+      "tdp": 304,
+      "score": 49,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-9070-xt.c4229"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-rx-9070-16g",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 9070",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 16.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"RDNA 4.0\", \"release_date\": \"2025-03-06\"}",
+      "tdp": 220,
+      "score": 36,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-9070.c4250"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-4090-d",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4090 D",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 24.0, \"min_psu_w\": 800, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2023-12-28\"}",
+      "tdp": 425,
+      "score": 74,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4090-d.c4189"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-6600-le",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 6600 LE",
+      "specs_json": "{\"length_mm\": 190.0, \"vram_gb\": 8.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"RDNA 2.0\", \"release_date\": \"2023-12-08\"}",
+      "tdp": 132,
+      "score": 9,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-6600-le.c4223"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-6750-gre-10-gb",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 6750 GRE 10 GB",
+      "specs_json": "{\"length_mm\": 267.0, \"vram_gb\": 10.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"RDNA 2.0\", \"release_date\": \"2023-10-17\"}",
+      "tdp": 170,
+      "score": 11,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-6750-gre-10-gb.c4192"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7700-xt",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7700 XT",
+      "specs_json": "{\"length_mm\": 267.0, \"vram_gb\": 12.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2023-08-25\"}",
+      "tdp": 245,
+      "score": 35,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7700-xt.c3911"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7900-gre",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7900 GRE",
+      "specs_json": "{\"length_mm\": 276.0, \"vram_gb\": 16.0, \"min_psu_w\": 600, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2023-07-27\"}",
+      "tdp": 260,
+      "score": 46,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7900-gre.c4166"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-a580",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc A580",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 8.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Xe-HPG\", \"release_date\": \"2023-10-10\"}",
+      "tdp": 175,
+      "score": 12,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-a580.c3928"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-pro-a60",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc Pro A60",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 12.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Xe-HPG\", \"release_date\": \"2023-06-06\"}",
+      "tdp": 130,
+      "score": 8,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-pro-a60.c4160"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-4070-gddr6",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4070 GDDR6",
+      "specs_json": "{\"length_mm\": 240.0, \"vram_gb\": 12.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2024-08-20\"}",
+      "tdp": 200,
+      "score": 29,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-gddr6.c4228"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-4070-super",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4070 SUPER",
+      "specs_json": "{\"length_mm\": 267.0, \"vram_gb\": 12.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2024-01-08\"}",
+      "tdp": 220,
+      "score": 35,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-super.c4186"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-4070-ti-super",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4070 Ti SUPER",
+      "specs_json": "{\"length_mm\": 310.0, \"vram_gb\": 16.0, \"min_psu_w\": 600, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2024-01-08\"}",
+      "tdp": 285,
+      "score": 44,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-ti-super.c4187"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-4080-super",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 4080 SUPER",
+      "specs_json": "{\"length_mm\": 310.0, \"vram_gb\": 16.0, \"min_psu_w\": 700, \"memory_type\": \"GDDR6X\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"Ada Lovelace\", \"release_date\": \"2024-01-08\"}",
+      "tdp": 320,
+      "score": 52,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-4080-super.c4182"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7600-xt",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7600 XT",
+      "specs_json": "{\"length_mm\": 204.0, \"vram_gb\": 16.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2024-01-08\"}",
+      "tdp": 190,
+      "score": 23,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7600-xt.c4190"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-b580",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc B580",
+      "specs_json": "{\"length_mm\": 272.0, \"vram_gb\": 12.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"Xe2-HPG\", \"release_date\": \"2024-12-13\"}",
+      "tdp": 190,
+      "score": 14,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-b580.c4244"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-5050",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5050",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 8.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x8\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-07-01\"}",
+      "tdp": 130,
+      "score": 13,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5050.c4220"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-5060-ti-16-gb",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5060 Ti 16 GB",
+      "specs_json": "{\"length_mm\": 241.0, \"vram_gb\": 16.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x8\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-04-16\"}",
+      "tdp": 180,
+      "score": 24,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-5090-d",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5090 D",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 32.0, \"min_psu_w\": 950, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-01-30\"}",
+      "tdp": 575,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5090-d.c4253"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-nvidia-geforce-rtx-5090-d-v2",
+      "category_code": "gpu",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 5090 D V2",
+      "specs_json": "{\"length_mm\": 304.0, \"vram_gb\": 24.0, \"min_psu_w\": 950, \"memory_type\": \"GDDR7\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"Blackwell 2.0\", \"release_date\": \"2025-08-15\"}",
+      "tdp": 575,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/geforce-rtx-5090-d-v2.c4310"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7400",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7400",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 8.0, \"min_psu_w\": 200, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2025-08-08\"}",
+      "tdp": 43,
+      "score": 16,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7400.c4328"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7650-gre",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7650 GRE",
+      "specs_json": "{\"length_mm\": 204.0, \"vram_gb\": 8.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2025-02-01\"}",
+      "tdp": 165,
+      "score": 22,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7650-gre.c4258"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-7700",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 7700",
+      "specs_json": "{\"length_mm\": 267.0, \"vram_gb\": 16.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x16\", \"architecture\": \"RDNA 3.0\", \"release_date\": \"2025-09-18\"}",
+      "tdp": 200,
+      "score": 27,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-7700.c4159"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-9060",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 9060",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 8.0, \"min_psu_w\": 300, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"RDNA 4.0\", \"release_date\": \"2025-08-05\"}",
+      "tdp": 132,
+      "score": 21,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-9060.c4326"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-9060-xt-16-gb",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 9060 XT 16 GB",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 16.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"RDNA 4.0\", \"release_date\": \"2025-06-04\"}",
+      "tdp": 160,
+      "score": 26,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-9060-xt-16-gb.c4293"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-amd-radeon-rx-9070-gre",
+      "category_code": "gpu",
+      "brand": "Amd",
+      "model": "Radeon RX 9070 GRE",
+      "specs_json": "{\"length_mm\": null, \"vram_gb\": 12.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x16\", \"architecture\": \"RDNA 4.0\", \"release_date\": \"2025-05-08\"}",
+      "tdp": 220,
+      "score": 34,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/radeon-rx-9070-gre.c4291"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-b570",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc B570",
+      "specs_json": "{\"length_mm\": 272.0, \"vram_gb\": 10.0, \"min_psu_w\": 450, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 4.0 x8\", \"architecture\": \"Xe2-HPG\", \"release_date\": \"2025-01-16\"}",
+      "tdp": 150,
+      "score": 12,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-b570.c4245"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-pro-b50",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc Pro B50",
+      "specs_json": "{\"length_mm\": 167.0, \"vram_gb\": 16.0, \"min_psu_w\": 250, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x8\", \"architecture\": \"Xe2-HPG\", \"release_date\": \"2025-09-05\"}",
+      "tdp": 70,
+      "score": 11,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-pro-b50.c4345"
+    },
+    {
+      "action": "upsert",
+      "match_key": "gpu-intel-arc-pro-b60",
+      "category_code": "gpu",
+      "brand": "Intel",
+      "model": "Arc Pro B60",
+      "specs_json": "{\"length_mm\": 167.0, \"vram_gb\": 24.0, \"min_psu_w\": 550, \"memory_type\": \"GDDR6\", \"bus\": \"PCIe 5.0 x8\", \"architecture\": \"Xe2-HPG\", \"release_date\": \"2025-09-05\"}",
+      "tdp": 200,
+      "score": 12,
+      "noise_db": null,
+      "notes": "source: https://www.techpowerup.com/gpu-specs/arc-pro-b60.c4350"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i7-13700",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i7-13700",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 16.0, \"threads\": 24.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 5.2, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i7-13700e",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i7-13700E",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 16.0, \"threads\": 24.0, \"base_freq_ghz\": 1.9, \"boost_freq_ghz\": 5.1, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 98,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232168/intel-core-i713700e-processor-30m-cache-up-to-5-10-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i7-13700f",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i7-13700F",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 16.0, \"threads\": 24.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 5.2, \"ram_type\": \"DDR4+DDR5\", \"igpu\": false, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i7-13700t",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i7-13700T",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 16.0, \"threads\": 24.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.9, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 94,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230492/intel-core-i713700t-processor-30m-cache-up-to-4-90-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i7-13700te",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i7-13700TE",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 16.0, \"threads\": 24.0, \"base_freq_ghz\": 1.1, \"boost_freq_ghz\": 4.8, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 92,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232131/intel-core-i713700te-processor-30m-cache-up-to-4-80-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13400",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13400",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 10.0, \"threads\": 16.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.6, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 55,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13400e",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13400E",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 10.0, \"threads\": 16.0, \"base_freq_ghz\": 2.4, \"boost_freq_ghz\": 4.6, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 55,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232148/intel-core-i513400e-processor-20m-cache-up-to-4-60-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13400t",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13400T",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 10.0, \"threads\": 16.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.4, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 53,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230577/intel-core-i513400t-processor-20m-cache-up-to-4-40-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13500",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13500",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.8, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 81,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230580/intel-core-i513500-processor-24m-cache-up-to-4-80-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13500e",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13500E",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": 2.4, \"boost_freq_ghz\": 4.6, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 77,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232134/intel-core-i513500e-processor-24m-cache-up-to-4-60-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13500t",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13500T",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.6, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 77,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230578/intel-core-i513500t-processor-24m-cache-up-to-4-60-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13500te",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13500TE",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": 1.3, \"boost_freq_ghz\": 4.5, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 76,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232108/intel-core-i513500te-processor-24m-cache-up-to-4-50-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13600",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13600",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 5.0, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 65,
+      "score": 84,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230574/intel-core-i513600-processor-24m-cache-up-to-5-00-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i5-13600t",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i5-13600T",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 14.0, \"threads\": 20.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.8, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 81,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230573/intel-core-i513600t-processor-24m-cache-up-to-4-80-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i3-13100",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i3-13100",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 4.0, \"threads\": 8.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.5, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 60,
+      "score": 22,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230575/intel-core-i313100-processor-12m-cache-up-to-4-50-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i3-13100e",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i3-13100E",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 4.0, \"threads\": 8.0, \"base_freq_ghz\": 3.3, \"boost_freq_ghz\": 4.4, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 60,
+      "score": 21,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232163/intel-core-i313100e-processor-12m-cache-up-to-4-40-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i3-13100f",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i3-13100F",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 4.0, \"threads\": 8.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.5, \"ram_type\": \"DDR4+DDR5\", \"igpu\": false, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 58,
+      "score": 22,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230576/intel-core-i313100f-processor-12m-cache-up-to-4-50-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i3-13100t",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i3-13100T",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 4.0, \"threads\": 8.0, \"base_freq_ghz\": null, \"boost_freq_ghz\": 4.2, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 20,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/230579/intel-core-i313100t-processor-12m-cache-up-to-4-20-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-intel-core-i3-13100te",
+      "category_code": "cpu",
+      "brand": "Intel",
+      "model": "Core i3-13100TE",
+      "specs_json": "{\"socket\": \"FCLGA1700\", \"cores\": 4.0, \"threads\": 8.0, \"base_freq_ghz\": 2.4, \"boost_freq_ghz\": 4.1, \"ram_type\": \"DDR4+DDR5\", \"igpu\": true, \"release_date\": \"Q1'23\", \"source\": \"intel-ark\"}",
+      "tdp": 35,
+      "score": 20,
+      "noise_db": null,
+      "notes": "source: intel-ark https://ark.intel.com/content/www/us/en/ark/products/232105/intel-core-i313100te-processor-12m-cache-up-to-4-10-ghz.html"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-amd-ryzen-9-7950x3d",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 9 7950X3D",
+      "specs_json": "{\"socket\": \"AM5\", \"cores\": 16.0, \"threads\": 32.0, \"base_freq_ghz\": 4.2, \"boost_freq_ghz\": 5.7, \"ram_type\": \"DDR5\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 120,
+      "score": 100,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-amd-ryzen-9-7900x3d",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 9 7900X3D",
+      "specs_json": "{\"socket\": \"AM5\", \"cores\": 12.0, \"threads\": 24.0, \"base_freq_ghz\": 4.4, \"boost_freq_ghz\": 5.6, \"ram_type\": \"DDR5\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 120,
+      "score": 81,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-amd-ryzen-9-7900",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 9 7900",
+      "specs_json": "{\"socket\": \"AM5\", \"cores\": 12.0, \"threads\": 24.0, \"base_freq_ghz\": 3.7, \"boost_freq_ghz\": 5.4, \"ram_type\": \"DDR5\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 65,
+      "score": 78,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-amd-ryzen-7-7700",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 7 7700",
+      "specs_json": "{\"socket\": \"AM5\", \"cores\": 8.0, \"threads\": 16.0, \"base_freq_ghz\": 3.8, \"boost_freq_ghz\": 5.3, \"ram_type\": \"DDR5\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 65,
+      "score": 51,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "upsert",
+      "match_key": "cpu-amd-amd-ryzen-5-5600x3d",
+      "category_code": "cpu",
+      "brand": "AMD",
+      "model": "Ryzen 5 5600X3D",
+      "specs_json": "{\"socket\": \"AM4\", \"cores\": 6.0, \"threads\": 12.0, \"base_freq_ghz\": 3.3, \"boost_freq_ghz\": 4.4, \"ram_type\": \"DDR4\", \"igpu\": true, \"release_date\": \"\", \"source\": \"amd\"}",
+      "tdp": 105,
+      "score": 32,
+      "noise_db": null,
+      "notes": "source: amd.com"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i3-12100f"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i5-12400f"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i5-12600k"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i7-13700k"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i9-13900k"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i5-13600k"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-5600"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-5600x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-7-5700x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-7-5800x3d"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-9-5900x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-9-5950x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i3-10100f"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i5-10400f"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i5-11400f"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-intel-i7-11700k"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-3-4100"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-3-5100"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-5500"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-5600g"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-7-5700g"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-7600"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-5-7600x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-7-7700x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-9-7900x"
+    },
+    {
+      "action": "delete",
+      "match_key": "cpu-amd-ryzen-9-7950x"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-nvidia-rtx-3060-12g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-nvidia-rtx-4080-16g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-nvidia-rtx-4090-24g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-nvidia-rtx-2060-6g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-nvidia-gtx-1660s-6g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-6600-8g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-6700xt-12g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-6800-16g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-7900xt-20g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-7900xtx-24g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-6500xt-4g"
+    },
+    {
+      "action": "delete",
+      "match_key": "gpu-amd-rx-6650xt-8g"
+    }
+  ]
+}
