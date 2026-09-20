@@ -1,6 +1,8 @@
 {
-  "db_version": 2,
-  "released": "2026-09-20",
-  "full_url": "https://dmitrypovolotsky76-star.github.io/pcbuilder-updates/db_v2.sqlite3",
-  "full_sha256": "74e1c1f4110c96faf3c3202da303c749c060e645f85ee73538d5768547ca3542"
+  "db_version": 3,
+  "released": "2026-09-21",
+  "full_url": "https://dmitrypovolotsky76-star.github.io/pcbuilder-updates/db_v3.sqlite3",
+  "full_sha256": "44750c64073bc17a0fef18a5a0f31861baddfcc19416f841eeb7617bdd8320aa",
+  "delta_url": "https://dmitrypovolotsky76-star.github.io/pcbuilder-updates/delta_v2_to_v3.json",
+  "delta_sha256": "eae8f1801d9f4d5435db4bf416f3ab08bd7bdb01e4819facea109e4844686650"
 }
