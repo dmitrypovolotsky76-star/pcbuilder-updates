@@ -8716,7 +8716,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslinfinity3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li Uni Fan SL-Infinity 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 61.3], \"source\": \"docyx/pcpartpicker\"}",
@@ -8728,7 +8728,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuanfa12x25pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua NF-A12x25 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 2000], \"pwm\": true, \"airflow_cfm\": 60.09, \"source\": \"docyx/pcpartpicker\"}",
@@ -8740,7 +8740,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12csx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C-S X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -8752,7 +8752,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pwmpst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PWM PST",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 1800], \"pwm\": true, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -8764,7 +8764,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs120argb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS120 ARGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [420, 2100], \"pwm\": true, \"airflow_cfm\": [13.3, 72.8], \"source\": \"docyx/pcpartpicker\"}",
@@ -8776,7 +8776,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -8788,7 +8788,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslinfinity",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li Uni Fan SL-Infinity",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [200, 1600], \"pwm\": true, \"airflow_cfm\": 72.7, \"source\": \"docyx/pcpartpicker\"}",
@@ -8800,7 +8800,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pst5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PST 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 1800], \"pwm\": true, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -8812,7 +8812,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [420, 2100], \"pwm\": true, \"airflow_cfm\": [13.3, 72.8], \"source\": \"docyx/pcpartpicker\"}",
@@ -8824,7 +8824,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa12x25pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A12x25 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 2000], \"pwm\": true, \"airflow_cfm\": [49.73, 60.1], \"source\": \"docyx/pcpartpicker\"}",
@@ -8836,7 +8836,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa14pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A14 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [300, 1500], \"pwm\": true, \"airflow_cfm\": 82.52, \"source\": \"docyx/pcpartpicker\"}",
@@ -8848,7 +8848,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinkqx120rgbstarterkit3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK QX120 RGB Starter Kit 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [480, 2400], \"pwm\": true, \"airflow_cfm\": [16.44, 63.1], \"source\": \"docyx/pcpartpicker\"}",
@@ -8860,7 +8860,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslwireless120reverseblade3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL Wireless 120 Reverse Blade 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 2000], \"pwm\": true, \"airflow_cfm\": 64, \"source\": \"docyx/pcpartpicker\"}",
@@ -8872,7 +8872,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuap12redux1700pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua P12 redux-1700 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 1700], \"pwm\": true, \"airflow_cfm\": 70.75, \"source\": \"docyx/pcpartpicker\"}",
@@ -8884,7 +8884,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14pst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 PST",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [200, 1700], \"pwm\": true, \"airflow_cfm\": 72.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -8896,7 +8896,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs120argb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS120 ARGB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [420, 2100], \"pwm\": true, \"airflow_cfm\": [13.3, 72.8], \"source\": \"docyx/pcpartpicker\"}",
@@ -8908,7 +8908,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cwsx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12CW-S X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -8920,7 +8920,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinkrx1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK RX120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2100, \"pwm\": false, \"airflow_cfm\": [10.5, 74.2], \"source\": \"docyx/pcpartpicker\"}",
@@ -8932,7 +8932,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietsilentwingspro4",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Silent Wings Pro 4",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 2400, \"pwm\": true, \"airflow_cfm\": 97.41, \"source\": \"docyx/pcpartpicker\"}",
@@ -8944,7 +8944,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantllcdwireless3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL LCD Wireless 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 1900], \"pwm\": true, \"airflow_cfm\": 62, \"source\": \"docyx/pcpartpicker\"}",
@@ -8956,7 +8956,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12csx55pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C-S X5 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -8968,7 +8968,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12rs",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12R-S",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -8980,7 +8980,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12max5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Max 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 3300], \"pwm\": true, \"airflow_cfm\": 81.04, \"source\": \"docyx/pcpartpicker\"}",
@@ -8992,7 +8992,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pstargb0db3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PST A-RGB 0dB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 48.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9004,7 +9004,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12max",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Max",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 3300], \"pwm\": true, \"airflow_cfm\": 81.04, \"source\": \"docyx/pcpartpicker\"}",
@@ -9016,7 +9016,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgbcore",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB Core",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": 78.86, \"source\": \"docyx/pcpartpicker\"}",
@@ -9028,7 +9028,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantlwireless3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL Wireless 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2300], \"pwm\": true, \"airflow_cfm\": 83.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9040,7 +9040,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairhd1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair HD120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 1725], \"pwm\": true, \"airflow_cfm\": 54.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9052,7 +9052,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12x33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12 X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9064,7 +9064,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuanfa14x25g2pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua NF-A14x25 G2 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [1250, 1500], \"pwm\": true, \"airflow_cfm\": [74.8, 91.6], \"source\": \"docyx/pcpartpicker\"}",
@@ -9076,7 +9076,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuanfa14x25g2pwmsx2pp2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua NF-A14x25 G2 PWM Sx2-PP 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [1250, 1500], \"pwm\": true, \"airflow_cfm\": [74.8, 91.6], \"source\": \"docyx/pcpartpicker\"}",
@@ -9088,7 +9088,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14max",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 Max",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [400, 2800], \"pwm\": true, \"airflow_cfm\": 95, \"source\": \"docyx/pcpartpicker\"}",
@@ -9100,7 +9100,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cs",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C-S",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9112,7 +9112,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12slimpwmpst3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Slim PWM PST 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 2100], \"pwm\": true, \"airflow_cfm\": 42.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -9124,7 +9124,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa14pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A14 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [300, 1500], \"pwm\": true, \"airflow_cfm\": [68, 82.5], \"source\": \"docyx/pcpartpicker\"}",
@@ -9136,7 +9136,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuanfa12x25g2pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua NF-A12x25 G2 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [1500, 1800], \"pwm\": true, \"airflow_cfm\": [51.32, 63.15], \"source\": \"docyx/pcpartpicker\"}",
@@ -9148,7 +9148,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinklx120rrgb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK LX120-R RGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2400, \"pwm\": true, \"airflow_cfm\": 70, \"source\": \"docyx/pcpartpicker\"}",
@@ -9160,7 +9160,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslwireless3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL Wireless 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 2000], \"pwm\": true, \"airflow_cfm\": 64.05, \"source\": \"docyx/pcpartpicker\"}",
@@ -9172,7 +9172,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pro5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Pro 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 3000], \"pwm\": true, \"airflow_cfm\": 77, \"source\": \"docyx/pcpartpicker\"}",
@@ -9184,7 +9184,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12s",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12-S",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9196,7 +9196,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa14industrialppc3000pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A14 industrialPPC-3000 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [800, 3000], \"pwm\": true, \"airflow_cfm\": 158.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -9208,7 +9208,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120q2024",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120Q (2024)",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1700], \"pwm\": true, \"airflow_cfm\": 74.26, \"source\": \"docyx/pcpartpicker\"}",
@@ -9220,7 +9220,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": [13.94, 50.18], \"source\": \"docyx/pcpartpicker\"}",
@@ -9232,7 +9232,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cx55pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C X5 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9244,7 +9244,7 @@
     {
       "action": "upsert",
       "match_key": "fan-montechax120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Montech",
       "model": "Montech AX120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 1600], \"pwm\": true, \"airflow_cfm\": 59, \"source\": \"docyx/pcpartpicker\"}",
@@ -9256,7 +9256,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaf12industrialppc3000pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua F12 industrialPPC-3000 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [750, 3000], \"pwm\": true, \"airflow_cfm\": 109.89, \"source\": \"docyx/pcpartpicker\"}",
@@ -9268,7 +9268,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g2120drgb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-120 D-RGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 2000], \"pwm\": true, \"airflow_cfm\": 72.72, \"source\": \"docyx/pcpartpicker\"}",
@@ -9280,7 +9280,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinklx120rgb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK LX120 RGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 2400], \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -9292,7 +9292,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc14cs",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C14C-S",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 75.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9304,7 +9304,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa12x15pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A12x15 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 1850], \"pwm\": true, \"airflow_cfm\": 55.44, \"source\": \"docyx/pcpartpicker\"}",
@@ -9316,7 +9316,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuanfa12x25g2pwmsx2pp2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua NF-A12x25 G2 PWM Sx2-PP 2-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [1500, 1800], \"pwm\": true, \"airflow_cfm\": [51.32, 63.15], \"source\": \"docyx/pcpartpicker\"}",
@@ -9328,7 +9328,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12c",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12C",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9340,7 +9340,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g2120drgbreverse3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-120 D-RGB Reverse 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 2000], \"pwm\": true, \"airflow_cfm\": 73.69, \"source\": \"docyx/pcpartpicker\"}",
@@ -9352,7 +9352,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cwsx55pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12CW-S X5 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9364,7 +9364,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslinfwireless3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL-INF Wireless 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2300], \"pwm\": true, \"airflow_cfm\": 67, \"source\": \"docyx/pcpartpicker\"}",
@@ -9376,7 +9376,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [420, 2100], \"pwm\": true, \"airflow_cfm\": [13.3, 72.8], \"source\": \"docyx/pcpartpicker\"}",
@@ -9388,7 +9388,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pro",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Pro",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 3000], \"pwm\": true, \"airflow_cfm\": 77, \"source\": \"docyx/pcpartpicker\"}",
@@ -9400,7 +9400,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslv2",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL V2",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 64.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -9412,7 +9412,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa12x15pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A12x15 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 1850], \"pwm\": true, \"airflow_cfm\": [41.67, 55.44], \"source\": \"docyx/pcpartpicker\"}",
@@ -9424,7 +9424,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12rbsv2",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12RB-S V2",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 58, \"source\": \"docyx/pcpartpicker\"}",
@@ -9436,7 +9436,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietpurewings3",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Pure Wings 3",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2100, \"pwm\": true, \"airflow_cfm\": 59.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9448,7 +9448,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14pst5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 PST 5-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [200, 1700], \"pwm\": true, \"airflow_cfm\": 72.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9460,7 +9460,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaf12pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua F12 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 1500], \"pwm\": true, \"airflow_cfm\": [43.73, 54.97], \"source\": \"docyx/pcpartpicker\"}",
@@ -9472,7 +9472,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc14c",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C14C",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 75.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9484,7 +9484,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12wsv3x33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12W-S V3 X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9496,7 +9496,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietsilentwings4",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Silent Wings 4",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1900, \"pwm\": true, \"airflow_cfm\": 78.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9508,7 +9508,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9520,7 +9520,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12r",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12R",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 42.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9532,7 +9532,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cws",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12CW-S",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9544,7 +9544,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14pwmpstargb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 PWM PST A-RGB",
       "specs_json": "{\"size_mm\": 140, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 68], \"source\": \"docyx/pcpartpicker\"}",
@@ -9556,7 +9556,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120p2024",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120P (2024)",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 73.47, \"source\": \"docyx/pcpartpicker\"}",
@@ -9568,7 +9568,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12slimpwmpst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Slim PWM PST",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 2100], \"pwm\": true, \"airflow_cfm\": 41.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -9580,7 +9580,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksphf120t30",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks PH-F120T30",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 101], \"source\": \"docyx/pcpartpicker\"}",
@@ -9592,7 +9592,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pstargb0db",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PST A-RGB 0dB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 48.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9604,7 +9604,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslv2120reverse",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL V2 120 Reverse",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 65.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9616,7 +9616,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantllcd120reverseblade3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL LCD 120 Reverse Blade 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 83.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9628,7 +9628,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwingspwmhighspeed3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings PWM high-speed 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 2200, \"pwm\": true, \"airflow_cfm\": 71.7, \"source\": \"docyx/pcpartpicker\"}",
@@ -9640,7 +9640,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12proargb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Pro A-RGB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 3000], \"pwm\": true, \"airflow_cfm\": 77, \"source\": \"docyx/pcpartpicker\"}",
@@ -9652,7 +9652,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PST",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 1800], \"pwm\": true, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -9664,7 +9664,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12rwx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12RW X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9676,7 +9676,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslv23pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL V2 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 64.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -9688,7 +9688,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9700,7 +9700,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12bsv3",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12B-S V3",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9712,7 +9712,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaf12pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua F12 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 1500], \"pwm\": true, \"airflow_cfm\": 54.97, \"source\": \"docyx/pcpartpicker\"}",
@@ -9724,7 +9724,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuap14sredux1500pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua P14s redux-1500 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [450, 1500], \"pwm\": true, \"airflow_cfm\": 78.69, \"source\": \"docyx/pcpartpicker\"}",
@@ -9736,7 +9736,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanslwirelesslcd3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN SL Wireless LCD 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 1900], \"pwm\": true, \"airflow_cfm\": 50.08, \"source\": \"docyx/pcpartpicker\"}",
@@ -9748,7 +9748,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa9x14hspwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A9x14 HS-PWM chromax.Black.swap",
       "specs_json": "{\"size_mm\": 92, \"rpm\": [600, 2500], \"pwm\": true, \"airflow_cfm\": 33.84, \"source\": \"docyx/pcpartpicker\"}",
@@ -9760,7 +9760,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12bsv3x33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12B-S V3 X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -9772,7 +9772,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12ws",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12W-S",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -9784,7 +9784,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlccs",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C-C-S",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 75.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9796,7 +9796,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksd30120reversed3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks D30-120 Reversed 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 61.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -9808,7 +9808,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asustufgamingtr120argb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asus",
       "model": "Asus TUF Gaming TR120 ARGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 77.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -9820,7 +9820,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltakect120exreverseargbsync3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake CT120 EX Reverse ARGB Sync 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 65.82, \"source\": \"docyx/pcpartpicker\"}",
@@ -9832,7 +9832,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinkqx140rgbstarterkit2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK QX140 RGB Starter Kit 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [400, 2400], \"pwm\": true, \"airflow_cfm\": [12.1, 82.5], \"source\": \"docyx/pcpartpicker\"}",
@@ -9844,7 +9844,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinkrx120maxrgbstarterkit3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK RX120 MAX RGB Starter Kit 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 2000], \"pwm\": true, \"airflow_cfm\": [16.3, 71.3], \"source\": \"docyx/pcpartpicker\"}",
@@ -9856,7 +9856,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12rwsv2",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12RW-S V2",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 58, \"source\": \"docyx/pcpartpicker\"}",
@@ -9868,7 +9868,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pwmpstargb0db3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PWM PST A-RGB 0dB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 48.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -9880,7 +9880,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 1800], \"pwm\": true, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -9892,7 +9892,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlk12r",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-K12R",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2150, \"pwm\": true, \"airflow_cfm\": 69, \"source\": \"docyx/pcpartpicker\"}",
@@ -9904,7 +9904,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksphf120t303pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks PH-F120T30 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 101], \"source\": \"docyx/pcpartpicker\"}",
@@ -9916,7 +9916,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14max5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 Max 5-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [400, 2800], \"pwm\": true, \"airflow_cfm\": 95, \"source\": \"docyx/pcpartpicker\"}",
@@ -9928,7 +9928,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa8pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A8 PWM",
       "specs_json": "{\"size_mm\": 80, \"rpm\": [450, 2200], \"pwm\": true, \"airflow_cfm\": [25.84, 32.66], \"source\": \"docyx/pcpartpicker\"}",
@@ -9940,7 +9940,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs140argb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS140 ARGB",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [330, 1700], \"pwm\": true, \"airflow_cfm\": [14.6, 95.5], \"source\": \"docyx/pcpartpicker\"}",
@@ -9952,7 +9952,7 @@
     {
       "action": "upsert",
       "match_key": "fan-montechrx120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Montech",
       "model": "Montech RX120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 1600], \"pwm\": true, \"airflow_cfm\": 59, \"source\": \"docyx/pcpartpicker\"}",
@@ -9964,7 +9964,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgbduo3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB DUO 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": 48.58, \"source\": \"docyx/pcpartpicker\"}",
@@ -9976,7 +9976,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanclwireless3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN CL Wireless 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2150], \"pwm\": true, \"airflow_cfm\": 77.34, \"source\": \"docyx/pcpartpicker\"}",
@@ -9988,7 +9988,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairll1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair LL120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 1500], \"pwm\": true, \"airflow_cfm\": 43.25, \"source\": \"docyx/pcpartpicker\"}",
@@ -10000,7 +10000,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgbduo",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB DUO",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": 48.58, \"source\": \"docyx/pcpartpicker\"}",
@@ -10012,7 +10012,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g21203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 2000], \"pwm\": true, \"airflow_cfm\": 72.72, \"source\": \"docyx/pcpartpicker\"}",
@@ -10024,7 +10024,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc12cw",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C12CW",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1550, \"pwm\": true, \"airflow_cfm\": 66.17, \"source\": \"docyx/pcpartpicker\"}",
@@ -10036,7 +10036,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairll120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair LL120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 1500], \"pwm\": true, \"airflow_cfm\": 43.25, \"source\": \"docyx/pcpartpicker\"}",
@@ -10048,7 +10048,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12wx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12W X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -10060,7 +10060,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlk12",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-K12",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2150, \"pwm\": true, \"airflow_cfm\": 69, \"source\": \"docyx/pcpartpicker\"}",
@@ -10072,7 +10072,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtfrgbcore",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F RGB Core",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": [24.85, 89.48], \"source\": \"docyx/pcpartpicker\"}",
@@ -10084,7 +10084,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf140q2024",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F140Q (2024)",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1500], \"pwm\": true, \"airflow_cfm\": 102.9, \"source\": \"docyx/pcpartpicker\"}",
@@ -10096,7 +10096,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtfrgbcore2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F RGB Core 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": [24.85, 89.48], \"source\": \"docyx/pcpartpicker\"}",
@@ -10108,7 +10108,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asiahorsefsn0013pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asiahorse",
       "model": "Asiahorse FS-N001 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 1500], \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -10120,7 +10120,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwingslx3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings LX 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2100, \"pwm\": true, \"airflow_cfm\": 61.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10132,7 +10132,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -10144,7 +10144,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs1402pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS140 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [330, 1700], \"pwm\": true, \"airflow_cfm\": [14.6, 95.5], \"source\": \"docyx/pcpartpicker\"}",
@@ -10156,7 +10156,7 @@
     {
       "action": "upsert",
       "match_key": "fan-fractaldesignaspect14pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Fractal",
       "model": "Fractal Design Aspect 14 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1700], \"pwm\": true, \"airflow_cfm\": [20, 78], \"source\": \"docyx/pcpartpicker\"}",
@@ -10168,7 +10168,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinkrx1402pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK RX140 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1700, \"pwm\": false, \"airflow_cfm\": [18.1, 95.7], \"source\": \"docyx/pcpartpicker\"}",
@@ -10180,7 +10180,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14pwmpstargb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 PWM PST A-RGB 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 68], \"source\": \"docyx/pcpartpicker\"}",
@@ -10192,7 +10192,7 @@
     {
       "action": "upsert",
       "match_key": "fan-idcoolingaf1253pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Id-Cooling",
       "model": "ID-COOLING AF-125 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 78.25, \"source\": \"docyx/pcpartpicker\"}",
@@ -10204,7 +10204,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinklx140rrgb2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK LX140-R RGB 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 90, \"source\": \"docyx/pcpartpicker\"}",
@@ -10216,7 +10216,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksd30120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks D30-120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 64.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -10228,7 +10228,7 @@
     {
       "action": "upsert",
       "match_key": "fan-silverstoneairpenetrator",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Silverstone",
       "model": "Silverstone Air Penetrator",
       "specs_json": "{\"size_mm\": 180, \"rpm\": [700, 1200], \"pwm\": false, \"airflow_cfm\": [80, 130], \"source\": \"docyx/pcpartpicker\"}",
@@ -10240,7 +10240,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgbcore3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB Core 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": 78.86, \"source\": \"docyx/pcpartpicker\"}",
@@ -10252,7 +10252,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksd301203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks D30-120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 64.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -10264,7 +10264,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf140p2024",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F140P (2024)",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1700], \"pwm\": true, \"airflow_cfm\": 93.2, \"source\": \"docyx/pcpartpicker\"}",
@@ -10276,7 +10276,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g2140drgbreverse3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-140 D-RGB Reverse 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [350, 1800], \"pwm\": true, \"airflow_cfm\": 100.07, \"source\": \"docyx/pcpartpicker\"}",
@@ -10288,7 +10288,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantl120reverseblade3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL 120 Reverse Blade 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2300], \"pwm\": false, \"airflow_cfm\": 83.4, \"source\": \"docyx/pcpartpicker\"}",
@@ -10300,7 +10300,7 @@
     {
       "action": "upsert",
       "match_key": "fan-msimpgez1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Msi",
       "model": "MSI MPG EZ120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": [0, 73.82], \"source\": \"docyx/pcpartpicker\"}",
@@ -10312,7 +10312,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltakeswafanex12argb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake SWAFAN EX12 ARGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": [56.26, 57.11], \"source\": \"docyx/pcpartpicker\"}",
@@ -10324,7 +10324,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12r",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12R",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -10336,7 +10336,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticf12pst5pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC F12 PST 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [230, 1350], \"pwm\": true, \"airflow_cfm\": 53, \"source\": \"docyx/pcpartpicker\"}",
@@ -10348,7 +10348,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuas12apwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua S12A PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 1200], \"pwm\": true, \"airflow_cfm\": 63.27, \"source\": \"docyx/pcpartpicker\"}",
@@ -10360,7 +10360,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25120pwmdrgb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25-120 PWM D-RGB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 84.26, \"source\": \"docyx/pcpartpicker\"}",
@@ -10372,7 +10372,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs140argb2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS140 ARGB 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [330, 1700], \"pwm\": true, \"airflow_cfm\": [14.6, 95.5], \"source\": \"docyx/pcpartpicker\"}",
@@ -10384,7 +10384,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticppst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P PST",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [200, 1900], \"pwm\": true, \"airflow_cfm\": 68.9, \"source\": \"docyx/pcpartpicker\"}",
@@ -10396,7 +10396,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bgearsbblaster",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Bgears",
       "model": "BGears b-Blaster",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 5200, \"pwm\": false, \"airflow_cfm\": 308, \"source\": \"docyx/pcpartpicker\"}",
@@ -10408,7 +10408,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltakect120argbsync2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake CT120 ARGB Sync 2-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 57.05, \"source\": \"docyx/pcpartpicker\"}",
@@ -10420,7 +10420,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairrs120r3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair RS120-R 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [420, 2100], \"pwm\": true, \"airflow_cfm\": [13.33, 65.82], \"source\": \"docyx/pcpartpicker\"}",
@@ -10432,7 +10432,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arctics120388k",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC S12038-8K",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 8000], \"pwm\": true, \"airflow_cfm\": 220, \"source\": \"docyx/pcpartpicker\"}",
@@ -10444,7 +10444,7 @@
     {
       "action": "upsert",
       "match_key": "fan-coolermastersickleflow3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Cooler",
       "model": "Cooler Master SickleFlow 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [650, 1800], \"pwm\": true, \"airflow_cfm\": 62, \"source\": \"docyx/pcpartpicker\"}",
@@ -10456,7 +10456,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12silent",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 Silent",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1050, \"pwm\": false, \"airflow_cfm\": 24.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -10468,7 +10468,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g2140drgb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-140 D-RGB 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [350, 1800], \"pwm\": true, \"airflow_cfm\": 101.78, \"source\": \"docyx/pcpartpicker\"}",
@@ -10480,7 +10480,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttls12w",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-S12W",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 47.6, \"source\": \"docyx/pcpartpicker\"}",
@@ -10492,7 +10492,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuar8redux1800pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua R8 redux-1800 PWM",
       "specs_json": "{\"size_mm\": 80, \"rpm\": [325, 1800], \"pwm\": true, \"airflow_cfm\": 31.37, \"source\": \"docyx/pcpartpicker\"}",
@@ -10504,7 +10504,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa20pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A20 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 200, \"rpm\": [350, 800], \"pwm\": true, \"airflow_cfm\": 86.46, \"source\": \"docyx/pcpartpicker\"}",
@@ -10516,7 +10516,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asusrogstrixxf",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asus",
       "model": "Asus ROG STRIX XF",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1800, \"pwm\": true, \"airflow_cfm\": 62.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -10528,7 +10528,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwingslx",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings LX",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 48.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10540,7 +10540,7 @@
     {
       "action": "upsert",
       "match_key": "fan-deepcoolfk1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Deepcool",
       "model": "Deepcool FK120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1850], \"pwm\": true, \"airflow_cfm\": 68.99, \"source\": \"docyx/pcpartpicker\"}",
@@ -10552,7 +10552,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticf12pst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC F12 PST",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [230, 1350], \"pwm\": true, \"airflow_cfm\": 53, \"source\": \"docyx/pcpartpicker\"}",
@@ -10564,7 +10564,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g2120",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-120",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [350, 2000], \"pwm\": true, \"airflow_cfm\": 72.72, \"source\": \"docyx/pcpartpicker\"}",
@@ -10576,7 +10576,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14slimpwmpst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 Slim PWM PST",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [150, 1800], \"pwm\": true, \"airflow_cfm\": 52, \"source\": \"docyx/pcpartpicker\"}",
@@ -10588,7 +10588,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantllcd1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL LCD 120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 90.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -10600,7 +10600,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwings",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1300, \"pwm\": true, \"airflow_cfm\": 51.37, \"source\": \"docyx/pcpartpicker\"}",
@@ -10612,7 +10612,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifantl1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN TL 120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2600], \"pwm\": false, \"airflow_cfm\": 90.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -10624,7 +10624,7 @@
     {
       "action": "upsert",
       "match_key": "fan-deepcoolfl123pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Deepcool",
       "model": "Deepcool FL12 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2150], \"pwm\": true, \"airflow_cfm\": 55, \"source\": \"docyx/pcpartpicker\"}",
@@ -10636,7 +10636,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp125pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1800, \"pwm\": false, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -10648,7 +10648,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asustufgamingtf120argb3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asus",
       "model": "Asus TUF Gaming TF120 ARGB 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 1900], \"pwm\": true, \"airflow_cfm\": 76, \"source\": \"docyx/pcpartpicker\"}",
@@ -10660,7 +10660,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuas12bredux1200pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua S12B redux-1200 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 1200], \"pwm\": true, \"airflow_cfm\": 59.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -10672,7 +10672,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pwmpstargb0db",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PWM PST A-RGB 0dB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": null, \"pwm\": true, \"airflow_cfm\": 48.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10684,7 +10684,7 @@
     {
       "action": "upsert",
       "match_key": "fan-coolermastermasterfanmf120halo3in13pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Cooler",
       "model": "Cooler Master MasterFan MF120 Halo² 3in1 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [1, 2050], \"pwm\": true, \"airflow_cfm\": 51.88, \"source\": \"docyx/pcpartpicker\"}",
@@ -10696,7 +10696,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuesp120rgbelite3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE SP120 RGB ELITE 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 1500], \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -10708,7 +10708,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1700, \"pwm\": false, \"airflow_cfm\": 72.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10720,7 +10720,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf120rgb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F120 RGB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": [13.94, 50.18], \"source\": \"docyx/pcpartpicker\"}",
@@ -10732,7 +10732,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicueql1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE QL120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 41.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10744,7 +10744,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa14industrialppc2000pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A14 industrialPPC-2000 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 107.41, \"source\": \"docyx/pcpartpicker\"}",
@@ -10756,7 +10756,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuelinklx140rgb2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE LINK LX140 RGB 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [350, 2000], \"pwm\": true, \"airflow_cfm\": [10.74, 84.7], \"source\": \"docyx/pcpartpicker\"}",
@@ -10768,7 +10768,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksphf140d30r3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks PH-F140D30R 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [250, 1800], \"pwm\": true, \"airflow_cfm\": 71.76, \"source\": \"docyx/pcpartpicker\"}",
@@ -10780,7 +10780,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaf12industrialppc2000pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua F12 industrialPPC-2000 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [450, 2000], \"pwm\": true, \"airflow_cfm\": 71.69, \"source\": \"docyx/pcpartpicker\"}",
@@ -10792,7 +10792,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicueaf120rgbslim2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE AF120 RGB SLIM 2-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 2000], \"pwm\": true, \"airflow_cfm\": [13.4, 56.3], \"source\": \"docyx/pcpartpicker\"}",
@@ -10804,7 +10804,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicuesp120rgbelite",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE SP120 RGB ELITE",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [400, 1500], \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -10816,7 +10816,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttle12bsv3",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-E12B-S V3",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 72.37, \"source\": \"docyx/pcpartpicker\"}",
@@ -10828,7 +10828,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa9pwmchromaxblackswap",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A9 PWM chromax.black.swap",
       "specs_json": "{\"size_mm\": 92, \"rpm\": [400, 2000], \"pwm\": true, \"airflow_cfm\": 46.44, \"source\": \"docyx/pcpartpicker\"}",
@@ -10840,7 +10840,7 @@
     {
       "action": "upsert",
       "match_key": "fan-fractaldesignaspect12rgbpwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Fractal",
       "model": "Fractal Design Aspect 12 RGB PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": [13, 56], \"source\": \"docyx/pcpartpicker\"}",
@@ -10852,7 +10852,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arctics120388k3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC S12038-8K 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [800, 8000], \"pwm\": true, \"airflow_cfm\": 220, \"source\": \"docyx/pcpartpicker\"}",
@@ -10864,7 +10864,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksd30120reversed",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks D30-120 Reversed",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 61.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -10876,7 +10876,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttle12wsv3",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-E12W-S V3",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 72.37, \"source\": \"docyx/pcpartpicker\"}",
@@ -10888,7 +10888,7 @@
     {
       "action": "upsert",
       "match_key": "fan-nzxtf140rgb2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Nzxt",
       "model": "NZXT F140 RGB 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": [24.85, 89.48], \"source\": \"docyx/pcpartpicker\"}",
@@ -10900,7 +10900,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietpurewings2",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Pure Wings 2",
       "specs_json": "{\"size_mm\": 80, \"rpm\": [450, 1900], \"pwm\": true, \"airflow_cfm\": 26.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -10912,7 +10912,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlc14cw",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-C14CW",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 1500, \"pwm\": true, \"airflow_cfm\": 75.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -10924,7 +10924,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp12pstco",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P12 PST CO",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 1800], \"pwm\": true, \"airflow_cfm\": 56.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -10936,7 +10936,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietpurewings3pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Pure Wings 3 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1600, \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -10948,7 +10948,7 @@
     {
       "action": "upsert",
       "match_key": "fan-idcoolingafargbk3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Id-Cooling",
       "model": "ID-COOLING AF-ARGB-K 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 78, \"source\": \"docyx/pcpartpicker\"}",
@@ -10960,7 +10960,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltakect1202pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake CT120 2-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 57.05, \"source\": \"docyx/pcpartpicker\"}",
@@ -10972,7 +10972,7 @@
     {
       "action": "upsert",
       "match_key": "fan-corsairicueaf120rgbelite3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Corsair",
       "model": "Corsair iCUE AF120 RGB ELITE 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [550, 2100], \"pwm\": true, \"airflow_cfm\": [13.8, 65.57], \"source\": \"docyx/pcpartpicker\"}",
@@ -10984,7 +10984,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuap14sredux1200pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua P14s redux-1200 PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [350, 1200], \"pwm\": true, \"airflow_cfm\": 64.92, \"source\": \"docyx/pcpartpicker\"}",
@@ -10996,7 +10996,7 @@
     {
       "action": "upsert",
       "match_key": "fan-idcoolingxf12025argbtrio3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Id-Cooling",
       "model": "ID-COOLING XF-12025-ARGB-TRIO 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [700, 1500], \"pwm\": true, \"airflow_cfm\": 62, \"source\": \"docyx/pcpartpicker\"}",
@@ -11008,7 +11008,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanal120v23pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN AL120 V2 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 2000], \"pwm\": true, \"airflow_cfm\": 77.3, \"source\": \"docyx/pcpartpicker\"}",
@@ -11020,7 +11020,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanp28",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN P28",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2600], \"pwm\": true, \"airflow_cfm\": [44.94, 92], \"source\": \"docyx/pcpartpicker\"}",
@@ -11032,7 +11032,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa9pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A9 PWM",
       "specs_json": "{\"size_mm\": 92, \"rpm\": [400, 2000], \"pwm\": true, \"airflow_cfm\": [36.84, 46.44], \"source\": \"docyx/pcpartpicker\"}",
@@ -11044,7 +11044,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlb12extrem",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-B12 EXTREM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 3150, \"pwm\": true, \"airflow_cfm\": 112, \"source\": \"docyx/pcpartpicker\"}",
@@ -11056,7 +11056,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuaa20pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua A20 PWM",
       "specs_json": "{\"size_mm\": 200, \"rpm\": [350, 800], \"pwm\": true, \"airflow_cfm\": [59.33, 86.46], \"source\": \"docyx/pcpartpicker\"}",
@@ -11068,7 +11068,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwingspwmhighspeed",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings PWM high-speed",
       "specs_json": "{\"size_mm\": 140, \"rpm\": 2200, \"pwm\": true, \"airflow_cfm\": 71.7, \"source\": \"docyx/pcpartpicker\"}",
@@ -11080,7 +11080,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp8slimpwmpst",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P8 Slim PWM PST",
       "specs_json": "{\"size_mm\": 80, \"rpm\": [300, 3000], \"pwm\": true, \"airflow_cfm\": 22.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -11092,7 +11092,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlk12rw",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-K12RW",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2150, \"pwm\": true, \"airflow_cfm\": 69, \"source\": \"docyx/pcpartpicker\"}",
@@ -11104,7 +11104,7 @@
     {
       "action": "upsert",
       "match_key": "fan-montechmetalpro3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Montech",
       "model": "Montech Metal Pro 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 2200], \"pwm\": true, \"airflow_cfm\": 76.2, \"source\": \"docyx/pcpartpicker\"}",
@@ -11116,7 +11116,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25g21403pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25G2-140 3-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [350, 1800], \"pwm\": true, \"airflow_cfm\": 101.78, \"source\": \"docyx/pcpartpicker\"}",
@@ -11128,7 +11128,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuap12redux1300pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua P12 redux-1300 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 1300], \"pwm\": true, \"airflow_cfm\": 54.32, \"source\": \"docyx/pcpartpicker\"}",
@@ -11140,7 +11140,7 @@
     {
       "action": "upsert",
       "match_key": "fan-antecp12r",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Antec",
       "model": "Antec P12R",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [600, 1500], \"pwm\": true, \"airflow_cfm\": [55.31, 61.46], \"source\": \"docyx/pcpartpicker\"}",
@@ -11152,7 +11152,7 @@
     {
       "action": "upsert",
       "match_key": "fan-coolermastermasterfanmfhalo",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Cooler",
       "model": "Cooler Master MasterFan MF Halo",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [650, 1800], \"pwm\": true, \"airflow_cfm\": 47.2, \"source\": \"docyx/pcpartpicker\"}",
@@ -11164,7 +11164,7 @@
     {
       "action": "upsert",
       "match_key": "fan-noctuas12apwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Noctua",
       "model": "Noctua S12A PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [300, 1200], \"pwm\": true, \"airflow_cfm\": null, \"source\": \"docyx/pcpartpicker\"}",
@@ -11176,7 +11176,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticf125pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC F12 5-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1350, \"pwm\": false, \"airflow_cfm\": 53, \"source\": \"docyx/pcpartpicker\"}",
@@ -11188,7 +11188,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttle12bv3",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-E12B V3",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 72.37, \"source\": \"docyx/pcpartpicker\"}",
@@ -11200,7 +11200,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltakect120exargbsync3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake CT120 EX ARGB Sync 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 68, \"source\": \"docyx/pcpartpicker\"}",
@@ -11212,7 +11212,7 @@
     {
       "action": "upsert",
       "match_key": "fan-fractaldesignaspect12pwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Fractal",
       "model": "Fractal Design Aspect 12 PWM",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": [13, 56], \"source\": \"docyx/pcpartpicker\"}",
@@ -11224,7 +11224,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asustufgamingtf120argb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asus",
       "model": "Asus TUF Gaming TF120 ARGB",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 1900], \"pwm\": true, \"airflow_cfm\": 76, \"source\": \"docyx/pcpartpicker\"}",
@@ -11236,7 +11236,7 @@
     {
       "action": "upsert",
       "match_key": "fan-lianliunifanp283pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Lian",
       "model": "Lian Li UNI FAN P28 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [200, 2600], \"pwm\": true, \"airflow_cfm\": [44.94, 92], \"source\": \"docyx/pcpartpicker\"}",
@@ -11248,7 +11248,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermaltaketoughfan2pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermaltake",
       "model": "Thermaltake TOUGHFAN 2-Pack",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 2000], \"pwm\": true, \"airflow_cfm\": 119.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -11260,7 +11260,7 @@
     {
       "action": "upsert",
       "match_key": "fan-thermalrighttlm12qx33pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Thermalright",
       "model": "Thermalright TL-M12Q X3 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 2000, \"pwm\": true, \"airflow_cfm\": 68.9, \"source\": \"docyx/pcpartpicker\"}",
@@ -11272,7 +11272,7 @@
     {
       "action": "upsert",
       "match_key": "fan-vetrooargb1203pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Vetroo",
       "model": "Vetroo ARGB120 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1300, \"pwm\": true, \"airflow_cfm\": 48.1, \"source\": \"docyx/pcpartpicker\"}",
@@ -11284,7 +11284,7 @@
     {
       "action": "upsert",
       "match_key": "fan-phanteksm25140pwmdrgb",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Phanteks",
       "model": "Phanteks M25-140 PWM D-RGB",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1800], \"pwm\": true, \"airflow_cfm\": 104.62, \"source\": \"docyx/pcpartpicker\"}",
@@ -11296,7 +11296,7 @@
     {
       "action": "upsert",
       "match_key": "fan-arcticp14pstco",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Arctic",
       "model": "ARCTIC P14 PST CO",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [200, 1700], \"pwm\": true, \"airflow_cfm\": 72.8, \"source\": \"docyx/pcpartpicker\"}",
@@ -11308,7 +11308,7 @@
     {
       "action": "upsert",
       "match_key": "fan-fractaldesignaspect14rgbpwm",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Fractal",
       "model": "Fractal Design Aspect 14 RGB PWM",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [500, 1700], \"pwm\": true, \"airflow_cfm\": [20, 78], \"source\": \"docyx/pcpartpicker\"}",
@@ -11320,7 +11320,7 @@
     {
       "action": "upsert",
       "match_key": "fan-montechax",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Montech",
       "model": "Montech AX",
       "specs_json": "{\"size_mm\": 140, \"rpm\": [600, 1600], \"pwm\": true, \"airflow_cfm\": 90.5, \"source\": \"docyx/pcpartpicker\"}",
@@ -11332,7 +11332,7 @@
     {
       "action": "upsert",
       "match_key": "fan-coolermastersickleflow",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Cooler",
       "model": "Cooler Master SickleFlow",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [650, 1800], \"pwm\": true, \"airflow_cfm\": 62, \"source\": \"docyx/pcpartpicker\"}",
@@ -11344,7 +11344,7 @@
     {
       "action": "upsert",
       "match_key": "fan-asustufgamingtf120argbwhite3in13pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Asus",
       "model": "Asus TUF GAMING TF120 ARGB White 3in1 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": [250, 1900], \"pwm\": true, \"airflow_cfm\": 76, \"source\": \"docyx/pcpartpicker\"}",
@@ -11356,7 +11356,7 @@
     {
       "action": "upsert",
       "match_key": "fan-bequietlightwingspwm3pack",
-      "category_code": "fan",
+      "category_code": "fans",
       "brand": "Be",
       "model": "be quiet! Light Wings PWM 3-Pack",
       "specs_json": "{\"size_mm\": 120, \"rpm\": 1700, \"pwm\": true, \"airflow_cfm\": 41.51, \"source\": \"docyx/pcpartpicker\"}",
